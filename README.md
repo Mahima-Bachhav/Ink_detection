@@ -2,7 +2,7 @@
 
 ### Description:
 
-- These models were trained for the [kaggle compitition](https://www.kaggle.com/competitions/vesuvius-challenge-ink-detection/overview) and won a **BRONZE** medal.
+- These models were trained for the [kaggle compitition](https://www.kaggle.com/competitions/vesuvius-challenge-ink-detection/overview).
 - Given a fragment, this segmentation model detects the ink.
 - The output of the model is a binary mask where the 1 represents the presence of ink and 0 for no ink.
 - This above mask is then converted into the RLE(Run Length Encodings).
